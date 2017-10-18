@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiniProject</string>
+    <string name="message">Watch face tapped</string>
+    <string name="custom_analog_name">Space Analog</string>
+
+    <string name="hello">Hello World!</string>
+    <string name="title">Hello Notification!</string>
+    <string name="notification_posted">Notification posted</string>
+</resources>
